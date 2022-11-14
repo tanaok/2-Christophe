@@ -18,8 +18,8 @@ Rue du Tricointe 55
 # WHY
 Wine not
 # HOW
--By train and/or by car
+- By train and/or by car
 # TO DO
-[ ] Logistics: Still to be discussed
-[ ] $: Contributions
-[ ] BYOB: Bring Our Own Booze?
+- [ ] Logistics: Still to be discussed
+- [ ] $: Contributions
+- [ ] BYOB: Bring Our Own Booze?
