@@ -7,8 +7,8 @@ permalink: /
 ## WHO
 
 - GDPR > cannot be disclosed.
-- Latest update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Le, Si, Fa}
-- N° persons = 9
+- Latest update 14/11: S = {An, Ar, Ba, Chr, Jo, Le, Si, Tchad}
+- N° persons = 8
 
 ## WHAT
 
@@ -16,7 +16,7 @@ permalink: /
 
 ## WHEN
 
-- 18/11 > 20/11
+- 18/11 17:45 @ UT > 20/11
 
 ## WHERE
 
@@ -32,9 +32,14 @@ Wine not
 ## HOW
 
 - By train and/or by car
+- | p | 19/11 | 20/11 |
+| --- | ---| ---|
+| Ar | | x |
+
 
 ## TO DO
 
 - [ ]  Logistics: Still to be discussed
-- [ ]  $: Contributions
+- [ ]  $: EUR 130 (gas + cleaning)
 - [ ]  BYOB: Bring Your Own Booze?
+- [ ]  Food
