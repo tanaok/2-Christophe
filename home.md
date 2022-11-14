@@ -7,7 +7,7 @@ permalink: /
 ## WHO
 
 - GDPR > cannot be disclosed.
-- Latest update 14/11: S = {An, Ar, Ba, Chr, Jo, Le, Si, Tchad}
+- Latest update 14/11: S = {An, Ar, Ba, Ch, Jo, Le, Si, Tc}
 - N° persons = 8
 
 ## WHAT
@@ -34,8 +34,9 @@ Wine not
 - By train and/or by car
 - | p | 19/11 | 20/11 |
 | --- | ---| ---|
-| Ar | | x |
-
+| Ar, Ch, Le | | x |
+| Ba | x | |
+| An, Jo, Si, Tc | | |
 
 ## TO DO
 
