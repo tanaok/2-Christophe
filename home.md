@@ -1,7 +1,7 @@
 ---
 title: "Yes week-end"
 permalink: /
-theme: hacker
+theme: Hacker
 ---
 ![alt image](260650734.jpg "Rue du Tricointe 55 5530 Yvoir")
 # WHO
