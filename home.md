@@ -3,26 +3,26 @@ title: "Yes week-end"
 permalink: /
 theme: Tactile
 ---
-![alt image](260650734.jpg "Rue du Tricointe 55 5530 Yvoir")
-#
-# WHO
+![alt image](260650734.jpg "Rue du Tricointe 5530 Yvoir")
+
+## WHO
 - GDPR > cannot be disclosed.
 - Latest Update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Si, Fa}
 - |S| = 8
-# WHAT
+## WHAT
 - See virtual version here: [3D](https://my.matterport.com/show/?m=GHvoKFJAGii)
-# WHEN
+## WHEN
 - 18/11 > 20/11
-# WHERE
+## WHERE
 **_--- MIND THE QUARRY ---_**
 - Rue du Tricointe
 5530 Yvoir NAMUR
 - Maps: [50.334692,4.889704](https://maps.google.com/?q=50.334692,4.889704)
-# WHY
+## WHY
 Wine not
-# HOW
+## HOW
 - By train and/or by car
-# TO DO
+## TO DO
 - [ ] Logistics: Still to be discussed
 - [ ] $: Contributions
 - [ ] BYOB: Bring Your Own Booze?
