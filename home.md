@@ -18,18 +18,22 @@ permalink: /
 - 18/11 > 20/11
 
 ## WHERE
+
 **_--- MIND THE QUARRY ---_**
 - Rue du Tricointe
 5530 Yvoir NAMUR
 - Map: [50.334692,4.889704](https://maps.google.com/?q=50.334692,4.889704)
 
 ## WHY
+
 Wine not
 
 ## HOW
+
 - By train and/or by car
 
 ## TO DO
+
 - [ ] Logistics: Still to be discussed
 - [ ] $: Contributions
 - [ ] BYOB: Bring Your Own Booze?
