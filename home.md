@@ -1,8 +1,3 @@
----
-title: "Yes week-end"
-permalink: /
-theme: Tactile
----
 ![alt image](260650734.jpg "Rue du Tricointe 5530 Yvoir")
 
 ## WHO
