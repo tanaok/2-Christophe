@@ -1,9 +1,7 @@
 ---
 permalink: /
 ---
-![alt image](260650734.jpg "Rue du Tricointe 5530 Yvoir")
-\n
-
+![alt image](260650734.jpg "Rue du Tricointe 5530 Yvoir")<br>
 ## WHO
 - GDPR > cannot be disclosed.
 - Latest Update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Le, Si, Fa}
