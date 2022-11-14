@@ -8,7 +8,7 @@ permalink: /
 
 - GDPR > cannot be disclosed.
 - Latest update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Le, Si, Fa}
-- # Persons = 9
+- N° persons = 9
 
 ## WHAT
 
@@ -35,6 +35,6 @@ Wine not
 
 ## TO DO
 
-- [ ] Logistics: Still to be discussed
-- [ ] $: Contributions
-- [ ] BYOB: Bring Your Own Booze?
+- [ ]  Logistics: Still to be discussed
+- [ ]  $: Contributions
+- [ ]  BYOB: Bring Your Own Booze?
