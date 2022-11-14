@@ -1,0 +1,16 @@
+# WHO
+GDPR > cannot be disclosed.
+Latest Update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Si, Fa}
+|S| = 8
+# WHAT
+[3D](https://my.matterport.com/show/?m=GHvoKFJAGii)
+# WHEN
+18/11 > 20/11
+# WHERE
+Rue du Tricointe 55 
+5530 Yvoir NAMUR
+# WHY
+Wine not
+# HOW
+By train and/or by car
+Still to be discussed
