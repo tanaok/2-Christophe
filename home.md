@@ -4,7 +4,6 @@ permalink: /
 theme: Tactile
 ---
 ![alt image](260650734.jpg "Rue du Tricointe 55 5530 Yvoir")
----
 # WHO
 - GDPR > cannot be disclosed.
 - Latest Update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Si, Fa}
@@ -14,8 +13,10 @@ theme: Tactile
 # WHEN
 - 18/11 > 20/11
 # WHERE
-Rue de Tricointe 55 
+**_--- MIND THE QUARRY ---_**
+- Rue du Tricointe
 5530 Yvoir NAMUR
+- Maps: [Maps](https://maps.google.com/?q=50.334692,4.889704)
 # WHY
 Wine not
 # HOW
