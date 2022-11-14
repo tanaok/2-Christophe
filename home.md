@@ -3,6 +3,7 @@ title: "Yes week-end"
 permalink: /
 layout: default
 ---
+![alt image](260650734.jpg)
 # WHO
 GDPR > cannot be disclosed.
 Latest Update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Si, Fa}
