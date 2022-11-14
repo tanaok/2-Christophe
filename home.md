@@ -1,6 +1,6 @@
 ---
 permalink: /
-theme: minimal
+theme: merlot
 ---
 
 ![alt image](260650734.jpg "Rue du Tricointe 5530 Yvoir")<br>
