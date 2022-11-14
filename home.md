@@ -1,9 +1,10 @@
 ---
 title: "Yes week-end"
 permalink: /
-layout: default
+layout: Minima
 ---
 ![alt image](260650734.jpg "Rue du Tricointe 55 5530 Yvoir")
+---
 # WHO
 - GDPR > cannot be disclosed.
 - Latest Update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Si, Fa}
