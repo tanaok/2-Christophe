@@ -7,7 +7,7 @@ permalink: /
 ## WHO
 - GDPR > cannot be disclosed.
 - Latest Update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Le, Si, Fa}
-- |S| = 8
+- |S| = 9
 ## WHAT
 - See virtual version here: [3D](https://my.matterport.com/show/?m=GHvoKFJAGii)
 ## WHEN
