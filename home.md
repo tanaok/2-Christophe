@@ -1,9 +1,10 @@
 ---
 title: "Yes week-end"
 permalink: /
-theme: Hacker
+theme: Tactile
 ---
 ![alt image](260650734.jpg "Rue du Tricointe 55 5530 Yvoir")
+---
 # WHO
 - GDPR > cannot be disclosed.
 - Latest Update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Si, Fa}
@@ -13,7 +14,7 @@ theme: Hacker
 # WHEN
 - 18/11 > 20/11
 # WHERE
-Rue du Tricointe 55 
+Rue de Tricointe 55 
 5530 Yvoir NAMUR
 # WHY
 Wine not
