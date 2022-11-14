@@ -1,8 +1,7 @@
 ---
 permalink: /
 remote_theme: pages-themes/merlot@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins: - jekyll-remote-theme
 ---
 
 ![alt image](260650734.jpg "Rue du Tricointe 5530 Yvoir")<br>
