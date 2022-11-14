@@ -1,7 +1,7 @@
 ---
 title: "Yes week-end"
 permalink: /
-theme: minima
+theme: architect
 ---
 ![alt image](260650734.jpg "Rue du Tricointe 55 5530 Yvoir")
 ---
