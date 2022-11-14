@@ -7,8 +7,8 @@ permalink: /
 ## WHO
 
 - GDPR > cannot be disclosed.
-- Latest Update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Le, Si, Fa}
-- |S| = 9
+- Latest update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Le, Si, Fa}
+- # Persons = 9
 
 ## WHAT
 
@@ -21,7 +21,7 @@ permalink: /
 ## WHERE
 
 **_--- MIND THE QUARRY ---_**
-- Rue du Tricointe
+- Rue du Tricointe<br>
 5530 Yvoir NAMUR
 - Map: [50.334692,4.889704](https://maps.google.com/?q=50.334692,4.889704)
 
