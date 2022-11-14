@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 ![alt image](260650734.jpg "Rue du Tricointe 5530 Yvoir")
 ## WHO
 - GDPR > cannot be disclosed.
