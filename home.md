@@ -6,7 +6,7 @@ permalink: /
 
 ## WHO
 
-- GDPR > cannot be disclosed.
+- GDPR > cannot be disclosed
 - Latest update 14/11: S = {An, Ar, Ba, Ch, Jo, Le, Si, Tc}
 - N° person = 8
 
