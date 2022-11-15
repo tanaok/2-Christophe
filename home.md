@@ -34,7 +34,7 @@ Wine not
 - By train and/or by car
   - Bruxelles-Luxembourg > Yvoir: direct every xx:38, 75 minutes, option 17:38, latest 21:38
   - Yvoir > Bruxelles-Luxembourg: direct every xx:21, 72 minutes, latest 21:21
-- | p | 19/11 | 20/11 |
+- | P | 19/11 | 20/11 |
 | --- | ---| ---|
 | Ar, Ch, Le | | x |
 | Ba | x | |
@@ -49,4 +49,4 @@ Wine not
 - [ ]  Bed sheets
 
 ## COST SPLIT
-- Group Expenses: [here](https://docs.google.com/spreadsheets/d/1JOUnQALm39UrMFN4T1d3j4UMYoT49Qn2dkmB3pW-F1g/edit?usp=sharing)
+- Group expenses: [here](https://docs.google.com/spreadsheets/d/1JOUnQALm39UrMFN4T1d3j4UMYoT49Qn2dkmB3pW-F1g/edit?usp=sharing)
