@@ -8,7 +8,7 @@ permalink: /
 
 - GDPR > cannot be disclosed.
 - Latest update 14/11: S = {An, Ar, Ba, Ch, Jo, Le, Si, Tc}
-- N° persons = 8
+- N° person = 8
 
 ## WHAT
 
@@ -44,3 +44,7 @@ Wine not
 - [ ]  $: EUR 130 (gas + cleaning)
 - [ ]  BYOB: Bring Your Own Booze?
 - [ ]  Food
+- [ ]  Bed sheets
+
+## COST SPLIT
+- Cost Split: [here](https://docs.google.com/spreadsheets/d/1JOUnQALm39UrMFN4T1d3j4UMYoT49Qn2dkmB3pW-F1g/edit?usp=sharing)
