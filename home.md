@@ -44,9 +44,10 @@ Wine not
 
 - [ ]  Logistics: Still to be discussed
 - [ ]  $: EUR 130 (gas + cleaning)
-- [ ]  BYOB: Bring Your Own Booze?
+- [ ]  Booze
 - [ ]  Food
 - [ ]  Bed sheets
+- [ ]  Towel
 
 ## COST SPLIT
 - Group expenses: [here](https://docs.google.com/spreadsheets/d/1JOUnQALm39UrMFN4T1d3j4UMYoT49Qn2dkmB3pW-F1g/edit?usp=sharing)
