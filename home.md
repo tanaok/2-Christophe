@@ -37,7 +37,7 @@ Wine not
 - | P | 19/11 | 20/11 |
 | --- | ---| ---|
 | Ar, Ch, Le | | x |
-| Ba, Si | x | |
+| Ba, Si (2pm) | x | |
 | An, Jo, Tc | | |
 
 ## TO DO
