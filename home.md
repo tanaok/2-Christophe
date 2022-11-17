@@ -6,7 +6,7 @@ permalink: /
 
 ## WHO
 
-- Latest update 14/11: S = {An, Ar, Ba, Ch, Jo, Le, Si, Tc}
+- Latest update 14/11: S = {An, Ar, Ba, Cha, Chr, Jo, Le, Si}
 - N° people = 8
 
 ## WHAT
@@ -36,9 +36,9 @@ Wine not
   - Yvoir > Bruxelles-Luxembourg: direct every xx:21, 72 minutes, latest 21:21
 - | P | 19/11 | 20/11 |
 | --- | ---| ---|
-| Ar, Ch, Le | | x |
-| Ba, Si (2pm) | x | |
-| An, Jo, Tc | | |
+| Ar, Chr, Le | | x |
+| Ba, Jo, Si (2pm) | x | |
+| An, Cha | | |
 
 ## TO DO
 
