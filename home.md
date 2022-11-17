@@ -42,12 +42,12 @@ Wine not
 
 ## TO DO
 
-- [ ]  Logistics: still to be discussed
-- [ ]  $: EUR 130 (gas + cleaning)
-- [ ]  Booze
-- [ ]  Food
-- [ ]  Bed sheets
-- [ ]  Towel
+[ ]  Logistics: still to be discussed
+[ ]  $: EUR 130 (gas + cleaning)
+[ ]  Booze
+[ ]  Food
+[ ]  Bed sheets
+[ ]  Towel
 
 ## COST SPLIT
 - Group expenses: [here](https://docs.google.com/spreadsheets/d/1JOUnQALm39UrMFN4T1d3j4UMYoT49Qn2dkmB3pW-F1g/edit?usp=sharing)
