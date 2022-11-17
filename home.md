@@ -6,9 +6,8 @@ permalink: /
 
 ## WHO
 
-- GDPR > cannot be disclosed
 - Latest update 14/11: S = {An, Ar, Ba, Ch, Jo, Le, Si, Tc}
-- N° person = 8
+- N° people = 8
 
 ## WHAT
 
@@ -23,7 +22,8 @@ permalink: /
 **_--- MIND THE QUARRY ---_**
 - Rue du Tricointe<br>
 5530 Yvoir NAMUR
-- Map: [50.334692,4.889704](https://maps.google.com/?q=50.334692,4.889704)
+- Map_ggl: [50.334692,4.889704](https://maps.google.com/?q=50.334692,4.889704)
+- Map_topo: [50.331992,4.888092 - Rue du Tricointe 55 5530](https://www.geo.be/map?layers=best_address&l=fr&x=544162.18&y=6503990.06&zoom=15&topic=fed&baseLayer=ngi.cartoweb.topo_bw.be)
 
 ## WHY
 
@@ -42,7 +42,7 @@ Wine not
 
 ## TO DO
 
-- [ ]  Logistics: Still to be discussed
+- [ ]  Logistics: still to be discussed
 - [ ]  $: EUR 130 (gas + cleaning)
 - [ ]  Booze
 - [ ]  Food
