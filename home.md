@@ -43,7 +43,7 @@ Wine not
 ## TO DO
 
 - [ ] Logistics: still to be discussed
-- [ ] $: EUR 130 (gas + cleaning)
+- [X] $: EUR 130 (gas + cleaning)
 - [ ] Booze
 - [ ] Food
 - [ ] Bed sheets
