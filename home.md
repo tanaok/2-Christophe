@@ -15,9 +15,11 @@ permalink: /
 
 ## WHEN
 
-- 25/12 18:00 CET @ Parent's
+- 25/12 18:00 CET
 
 ## WHERE
+
+- @ Parent's
 
 ## WHY
 
