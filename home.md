@@ -31,11 +31,11 @@ permalink: /
 
 | P | Ba | El | Jd | Ka | Ni | Sal | San
 | ---| ---| ---| ---| ---| ---| ---| ---
-| Ba | o | ---| X | x | xx | x | xx
+| Ba | o | ---| X | y | xx | x | xx
 | El | x | o | X | X | x | ---| ---
 | Jd | x | ---| o | X | x | ---| ---
 | Ka | x | ---| x | o | ---| x | x
-| Ni | x | ---| X | x | o | x | x
+| Ni | x | ---| X | y | o | x | x
 | Sal | | | | | | o | ---
 | San | | | | | | ---| o 
 
