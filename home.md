@@ -34,7 +34,7 @@ permalink: /
 | Ba | o | ---| X | y | xx | x | xx
 | El | x | o | X | X | x | ---| ---
 | Jd | x | ---| o | X | x | ---| ---
-| Ka | x | ---| x | o | ---| x | x
+| Ka | x | ---| X | o | ---| x | x
 | Ni | x | ---| X | y | o | x | x
 | Sal | | | | | | o | ---
 | San | | | | | | ---| o 
