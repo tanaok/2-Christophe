@@ -32,8 +32,8 @@ permalink: /
 | P | Ba | El | Jd | Ka | Ni | Sal | San
 | ---| ---| ---| ---| ---| ---| ---| ---
 | Ba | o | ---| X | y | xx | x | xx
-| El | x | o | X | X | x | ---| ---
-| Jd | x | ---| o | X | x | ---| ---
+| El | x | o | X | xX | x | x | x
+| Jd | x | ---| o | X | x | x | x
 | Ka | x | ---| X | o | ---| x | x
 | Ni | x | ---| X | y | o | x | x
 | Sal | | | | | | o | ---
