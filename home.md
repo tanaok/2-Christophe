@@ -9,10 +9,10 @@ W A O U W!
 
 Que cumples muchas mas!
 
-CLICK-> [Joyeux anniversaire moreno !](anniversairemoreno.mp3?raw=true) AND
-  > DOWNLOAD LINK OR 
+CLICK HERE ( c'est un .mp3 ) -> [Joyeux anniversaire moreno !](anniversairemoreno.mp3?raw=true) AND<br>
+  > DOWNLOAD LINK or<br> 
   > OPEN LINK IN EXTERNAL APP
 
-Bizzz
+Bizzz!
 
 ![alt image](noel.jpg)<br>
