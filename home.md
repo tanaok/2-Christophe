@@ -6,6 +6,11 @@ permalink: /
 
 ## _5 années, seulement !
 
+Soit 44y 11m 27d,
+16.435d,
+
+xD
+
 _Que cumplas muchos mas!!_
 
 Pour la surprise,
